@@ -34,6 +34,9 @@ cat > ./guide << EOF
 # if arg is -l l --latest latest
 # grab latest blog/snippet/idea/whatever/figure this out when I'm not sick
 #
+# if arg us -u u --update update
+# curl url and self-update
+#
 
 echo "
 			welcome to Octo's help menu
