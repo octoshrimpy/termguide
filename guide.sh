@@ -33,7 +33,7 @@ echo "
   update this utility:
 
 
-curl https://gist.githubusercontent.com/octoshrimpy/c0f0f6262459c715b5083b5c74becdef/raw | sh
+curl https://octoshrimpy.github.io/termguide/guide.sh | bas
 
 
 
