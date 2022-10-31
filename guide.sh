@@ -1,6 +1,6 @@
 #!/usr/bin/sudo sh
 
-# version 0.0.1
+# version 0.0.2
 
 # elevate
 [ "$UID" -eq 0 ] || exec sudo "$0" "$@"
