@@ -1,5 +1,7 @@
 #!/usr/bin/sudo sh
 
+# version 0.0.1
+
 # elevate
 [ "$UID" -eq 0 ] || exec sudo "$0" "$@"
 
@@ -188,6 +190,8 @@ misc cmd
 
 " | less
 EOF
+
+# @todo add version checking and updating
 
 echo "created . . ."
 
